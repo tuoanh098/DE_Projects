@@ -1,0 +1,11 @@
+2024-Mar-13-01:52:34 : ETL Starting
+2024-Mar-13-01:52:34 : Start extract process
+2024-Mar-13-01:52:36 : End extract progress
+2024-Mar-13-01:52:36 : Start transformation process
+2024-Mar-13-01:52:36 : End transformation process
+2024-Mar-13-01:52:36 : Start load to csv, db process
+2024-Mar-13-01:52:36 : End load to csv, db process
+2024-Mar-13-01:52:36 : Run query1 process
+2024-Mar-13-01:52:36 : Run query2 process
+2024-Mar-13-01:52:36 : ETL process End
+
