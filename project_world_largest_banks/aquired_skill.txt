@@ -1,4 +1,4 @@
-With this, you are now trained to perform ETL operations on real-world data and make the processed information available for further use in different formats.
+Perform ETL operations on real-world data and make the processed information available for further use in different formats.
 
 Use Webscraping techniques to extract information from any website as per requirement.
 
