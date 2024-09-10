@@ -1,0 +1,30 @@
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\bin\Debug\net8.0-windows7.0\Employee Management Application.exe
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\bin\Debug\net8.0-windows7.0\Employee Management Application.deps.json
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\bin\Debug\net8.0-windows7.0\Employee Management Application.runtimeconfig.json
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\bin\Debug\net8.0-windows7.0\Employee Management Application.dll
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\bin\Debug\net8.0-windows7.0\Employee Management Application.pdb
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\bin\Debug\net8.0-windows7.0\System.Data.SqlClient.dll
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\sni.dll
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\sni.dll
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\bin\Debug\net8.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\bin\Debug\net8.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\obj\Debug\net8.0-windows7.0\Employee Management Application.csproj.AssemblyReference.cache
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\obj\Debug\net8.0-windows7.0\Employee_Management_Application.Chart.resources
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\obj\Debug\net8.0-windows7.0\Employee_Management_Application.EMA.resources
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\obj\Debug\net8.0-windows7.0\Employee_Management_Application.Help.resources
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\obj\Debug\net8.0-windows7.0\Employee_Management_Application.LoginUI.resources
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\obj\Debug\net8.0-windows7.0\Employee_Management_Application.Management.resources
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\obj\Debug\net8.0-windows7.0\Employee_Management_Application.Properties.Resources.resources
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\obj\Debug\net8.0-windows7.0\Employee_Management_Application.Signup.resources
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\obj\Debug\net8.0-windows7.0\Employee Management Application.csproj.GenerateResource.cache
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\obj\Debug\net8.0-windows7.0\Employee Management Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\obj\Debug\net8.0-windows7.0\Employee Management Application.AssemblyInfoInputs.cache
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\obj\Debug\net8.0-windows7.0\Employee Management Application.AssemblyInfo.cs
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\obj\Debug\net8.0-windows7.0\Employee Management Application.csproj.CoreCompileInputs.cache
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\obj\Debug\net8.0-windows7.0\Employee.63DA5BD0.Up2Date
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\obj\Debug\net8.0-windows7.0\Employee Management Application.dll
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\obj\Debug\net8.0-windows7.0\refint\Employee Management Application.dll
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\obj\Debug\net8.0-windows7.0\Employee Management Application.pdb
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\obj\Debug\net8.0-windows7.0\Employee Management Application.genruntimeconfig.cache
+C:\Users\tuoan\OneDrive\Máy tính\Employee Management Application\Employee Management Application\obj\Debug\net8.0-windows7.0\ref\Employee Management Application.dll

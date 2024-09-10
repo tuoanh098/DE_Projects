@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\Employee Management Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{239DD5EC-C4B2-4FB1-8F54-264E54D0E894}|Employee Management Application\\Employee Management Application.csproj|c:\\users\\tuoan\\onedrive\\m\u00E1y t\u00EDnh\\employee management application\\employee management application\\chart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239DD5EC-C4B2-4FB1-8F54-264E54D0E894}|Employee Management Application\\Employee Management Application.csproj|solutionrelative:employee management application\\chart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239DD5EC-C4B2-4FB1-8F54-264E54D0E894}|Employee Management Application\\Employee Management Application.csproj|c:\\users\\tuoan\\onedrive\\m\u00E1y t\u00EDnh\\employee management application\\employee management application\\chart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{239DD5EC-C4B2-4FB1-8F54-264E54D0E894}|Employee Management Application\\Employee Management Application.csproj|solutionrelative:employee management application\\chart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239DD5EC-C4B2-4FB1-8F54-264E54D0E894}|Employee Management Application\\Employee Management Application.csproj|c:\\users\\tuoan\\onedrive\\m\u00E1y t\u00EDnh\\employee management application\\employee management application\\ema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239DD5EC-C4B2-4FB1-8F54-264E54D0E894}|Employee Management Application\\Employee Management Application.csproj|solutionrelative:employee management application\\ema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239DD5EC-C4B2-4FB1-8F54-264E54D0E894}|Employee Management Application\\Employee Management Application.csproj|c:\\users\\tuoan\\onedrive\\m\u00E1y t\u00EDnh\\employee management application\\employee management application\\loginui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239DD5EC-C4B2-4FB1-8F54-264E54D0E894}|Employee Management Application\\Employee Management Application.csproj|solutionrelative:employee management application\\loginui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239DD5EC-C4B2-4FB1-8F54-264E54D0E894}|Employee Management Application\\Employee Management Application.csproj|c:\\users\\tuoan\\onedrive\\m\u00E1y t\u00EDnh\\employee management application\\employee management application\\ema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{239DD5EC-C4B2-4FB1-8F54-264E54D0E894}|Employee Management Application\\Employee Management Application.csproj|solutionrelative:employee management application\\ema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239DD5EC-C4B2-4FB1-8F54-264E54D0E894}|Employee Management Application\\Employee Management Application.csproj|C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\Employee Management Application\\employee management application\\loginui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{239DD5EC-C4B2-4FB1-8F54-264E54D0E894}|Employee Management Application\\Employee Management Application.csproj|solutionrelative:employee management application\\loginui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239DD5EC-C4B2-4FB1-8F54-264E54D0E894}|Employee Management Application\\Employee Management Application.csproj|C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\Employee Management Application\\employee management application\\management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{239DD5EC-C4B2-4FB1-8F54-264E54D0E894}|Employee Management Application\\Employee Management Application.csproj|solutionrelative:employee management application\\management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239DD5EC-C4B2-4FB1-8F54-264E54D0E894}|Employee Management Application\\Employee Management Application.csproj|c:\\users\\tuoan\\onedrive\\m\u00E1y t\u00EDnh\\employee management application\\employee management application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239DD5EC-C4B2-4FB1-8F54-264E54D0E894}|Employee Management Application\\Employee Management Application.csproj|solutionrelative:employee management application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chart.cs",
+              "DocumentMoniker": "C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\Employee Management Application\\Employee Management Application\\Chart.cs",
+              "RelativeDocumentMoniker": "Employee Management Application\\Chart.cs",
+              "ToolTip": "C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\Employee Management Application\\Employee Management Application\\Chart.cs",
+              "RelativeToolTip": "Employee Management Application\\Chart.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAuwGUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:21:07.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\Employee Management Application\\Employee Management Application\\Chart.cs",
+              "RelativeDocumentMoniker": "Employee Management Application\\Chart.cs",
+              "ToolTip": "C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\Employee Management Application\\Employee Management Application\\Chart.cs [Design]",
+              "RelativeToolTip": "Employee Management Application\\Chart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:21:05.698Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EMA.cs",
+              "DocumentMoniker": "C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\Employee Management Application\\Employee Management Application\\EMA.cs",
+              "RelativeDocumentMoniker": "Employee Management Application\\EMA.cs",
+              "ToolTip": "C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\Employee Management Application\\Employee Management Application\\EMA.cs",
+              "RelativeToolTip": "Employee Management Application\\EMA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:15:32.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EMA.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\Employee Management Application\\Employee Management Application\\EMA.cs",
+              "RelativeDocumentMoniker": "Employee Management Application\\EMA.cs",
+              "ToolTip": "C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\Employee Management Application\\Employee Management Application\\EMA.cs [Design]",
+              "RelativeToolTip": "Employee Management Application\\EMA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:15:21.254Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginUI.cs",
+              "DocumentMoniker": "C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\Employee Management Application\\Employee Management Application\\LoginUI.cs",
+              "RelativeDocumentMoniker": "Employee Management Application\\LoginUI.cs",
+              "ToolTip": "C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\Employee Management Application\\Employee Management Application\\LoginUI.cs",
+              "RelativeToolTip": "Employee Management Application\\LoginUI.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAUwHYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:12:23.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\Employee Management Application\\Employee Management Application\\LoginUI.cs",
+              "RelativeDocumentMoniker": "Employee Management Application\\LoginUI.cs",
+              "ToolTip": "D:\\DE_Projects\\Employee Management Application\\Employee Management Application\\LoginUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:12:21.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Management.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\Employee Management Application\\Employee Management Application\\Management.cs",
+              "RelativeDocumentMoniker": "Employee Management Application\\Management.cs",
+              "ToolTip": "D:\\DE_Projects\\Employee Management Application\\Employee Management Application\\Management.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T16:57:53.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\Employee Management Application\\Employee Management Application\\Program.cs",
+              "RelativeDocumentMoniker": "Employee Management Application\\Program.cs",
+              "ToolTip": "C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\Employee Management Application\\Employee Management Application\\Program.cs",
+              "RelativeToolTip": "Employee Management Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T16:57:51.368Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
